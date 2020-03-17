@@ -1,0 +1,199 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('grayscale-photo-of-volcano-997443.jpg');
+    background-size: cover;
+
+
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 50px;
+    margin-top: -90px;
+    background-color: rgba(128, 128, 128, 0.76) ;
+
+
+}
+
+#logo {
+    width: 80px;
+    height: 80px;
+
+}
+
+
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style-type: none;
+
+}
+
+
+
+nav li {
+    padding: 10px;
+    font-size: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+nav li a {
+    
+    font-size: 22px;
+    text-decoration: none;
+    display: block;
+    color: orange;
+
+
+}
+
+
+nav li a:hover {
+    color: white;
+ 
+}
+
+
+.logo { 
+    display: flex;
+    height: 175px;
+    width: 175px;
+    margin: auto;
+    margin-top: 3%;
+
+
+
+}
+
+
+h1 {
+ 
+ margin-top: 10px;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-size: 45px;
+ color: floralwhite;
+ text-align: center;
+
+
+}
+
+p {
+   
+   display: flex; 
+   justify-content: center;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+   font-size: 20px;
+   text-align: center;
+   color:orange;
+   margin-left: %;
+   margin-top: 20%;
+
+
+
+}
+
+
+.box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+    width: 31em;
+    margin-left: 530px;
+    margin-top: 100px;
+
+
+
+}
+
+.box1{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+
+}
+
+
+.box2{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+
+ 
+.box3{
+     background-color: orange;
+     width: 100px;
+     height: 100px;
+     border-radius: 20px;   
+}
+
+.texte{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: -160px;
+    margin-left: 550px;
+    width: 30em;
+
+
+
+}
+
+.texte1{
+
+    justify-content: center;
+    color: white; 
+    font-size: 20px;
+
+
+}
+
+
+.texte2{
+    
+    justify-content: center;
+    color: white; 
+    font-size: 20px;
+
+
+
+}
+
+
+.texte3{
+
+ justify-content: center;
+ color: white;
+ font-size: 20px;
+ margin-right: 20px;
+
+
+}
+
+h2{
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 90px;
+
+
+
+
+}
